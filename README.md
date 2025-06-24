@@ -12,3 +12,7 @@ Main.py for balanced data pre-training
 The two files have similar function, just change the input data.
 
 微调.py for self-built dataset, which aims to learn the true distribution of actual data and solve the out-of-distribution problem.
+
+functions2.py for necessary functions 
+
+The corresponding paper of the code: to be published.
