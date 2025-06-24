@@ -1,7 +1,9 @@
 # TExNet-long-short-term-fast-fall-detection-based-on-attention-enhancement-and-self-adaption
 Fall detection transfer learning based on Transformer and CNN
 
-Data: The wrist data of five volunteers were collected by the self-made hardware based on STM32F103 C8T6. It includes three daily activities (standing, walking, and quickly sitting down) and two fall behaviors (getting up after falling and not getting up after falling).
+Platform: Python 3.9
+
+Data: The wrist data of five volunteers were collected by the self-made hardware based on STM32F103 C8T6. It includes three daily activities (standing, walking, and quickly sitting down) and two fall behaviors (getting up after falling and not getting up after falling). 
 
 Main.py for balanced data pre-training
 
